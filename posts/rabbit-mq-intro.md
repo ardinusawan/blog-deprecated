@@ -1,6 +1,6 @@
 ---
 title: 'Rabbit MQ - Intro'
-date: '2020-01-01'
+date: '2021-09-26'
 ---
 
 Rabbit MQ is pub-sub/message broker. It can be use to send message asyncronously.
